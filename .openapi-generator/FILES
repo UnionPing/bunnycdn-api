@@ -1,0 +1,15 @@
+.gitignore
+.openapi-generator-ignore
+api.ts
+api/apis.ts
+api/manageCollectionsApi.ts
+api/manageVideosApi.ts
+git_push.sh
+model/captionModelAdd.ts
+model/createVideoModel.ts
+model/fetchVideoRequest.ts
+model/models.ts
+model/updateCollectionModel.ts
+model/updateVideoModel.ts
+package.json
+tsconfig.json
